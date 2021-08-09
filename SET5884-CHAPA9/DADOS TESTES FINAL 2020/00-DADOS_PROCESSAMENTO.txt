@@ -1,0 +1,10 @@
+Nº_PASSOS: 50
+TOLERANCIA: 0.000001
+TEMPO_DO_PASSO: 0.02
+
+||||| ESTADO PLANO (0-EPD / 1-EPT) |||||
+1
+
+||||| Força de campo |||||
+B1, B2
+0.,0.
